@@ -69,10 +69,9 @@ My![Visitor Count](https://profile-counter.glitch.me/imFrazier/count.svg) visito
 </a> 
 <div align="center">
 <a href="https://music.163.com/#/user/home?id=8263575470">
-<img src=http://p3.music.126.net/tBTNafgjNnTL1KlZMt7lVA==/18885211718935735.jpg>
+<img src="http://p3.music.126.net/tBTNafgjNnTL1KlZMt7lVA==/18885211718935735.jpg" alt="a link to music.163.com">
 </a>
-[![](https://music.163.com/#/user/home?id=8263575470)](http://p3.music.126.net/tBTNafgjNnTL1KlZMt7lVA==/18885211718935735.jpg "wyyyy")
-</div>  
+ 
   
 
 <br/>  
