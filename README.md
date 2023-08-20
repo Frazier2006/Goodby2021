@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/imFrazier/count.svg)
 - 👋 Hi, I’m @Frazier2006
 - 👀 I’m interested in computer
 - 🌱 I’m currently learning ...
