@@ -69,7 +69,7 @@ My![Visitor Count](https://profile-counter.glitch.me/imFrazier/count.svg) visito
 </a> 
 <div align="center">
 <a href="https://music.163.com/#/user/home?id=8263575470">
-<img src=https://s1.music.126.net/style/favicon.ico/>
+<img src=http://p3.music.126.net/tBTNafgjNnTL1KlZMt7lVA==/18885211718935735.jpg>
 </a>
 </div>  
   
