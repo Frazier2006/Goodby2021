@@ -69,7 +69,7 @@ My![Visitor Count](https://profile-counter.glitch.me/imFrazier/count.svg) visito
 </a> 
 <div align="center">
 <a href="https://music.163.com/#/user/home?id=8263575470">
-<img src=[https://img.shields.io/badge/github-%2324292e.svg?&style](http://p3.music.126.net/tBTNafgjNnTL1KlZMt7lVA==/18885211718935735.jpg)=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://s1.music.126.net/style/favicon.ico/>
 </div>  
   
 
