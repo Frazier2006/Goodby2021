@@ -4,7 +4,7 @@ My![Visitor Count](https://profile-counter.glitch.me/imFrazier/count.svg) visito
 
 ### imFrazier  
 <div align="center">
-<img src="https://imfrazier.top/images/tx.jpg" align="center" style="width: 100%" />
+<img src="https://imfrazier.top/images/tx.jpg" align="center" style="width: 50%" />
 </div>  
   
 
