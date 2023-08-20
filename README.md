@@ -93,5 +93,8 @@ My![Visitor Count](https://profile-counter.glitch.me/imFrazier/count.svg) visito
 <div align="center"></div>
 <br />
 
+## Thanks
+ [profilinator.rishav.dev](https://profilinator.rishav.dev/)  
+
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
