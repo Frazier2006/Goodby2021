@@ -8,7 +8,7 @@ My![Visitor Count](https://profile-counter.glitch.me/imFrazier/count.svg) visito
 </div>  
   
 
-### <div align="center">I'm 方青弦Frazier, A student from China.Interested in computers from a young age and officially started studying computers in 2019 (middle school)🚀</div>  
+### <div align="center">I'm 二十一. , A student from China.Interested in computers from a young age and officially started studying computers in 2019 (middle school)🚀</div>  
   
 
 - 🌱 I’m currently learning HTML and Python.  
@@ -16,48 +16,6 @@ My![Visitor Count](https://profile-counter.glitch.me/imFrazier/count.svg) visito
 
 - ⚡ I've studied Raspberry Pi before.  
   
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
-</div>
-
-</td></tr></table>  
 
 <br/>  
 
